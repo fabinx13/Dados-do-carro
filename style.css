@@ -1,0 +1,97 @@
+.geral{
+    background-color: rgb(219, 219, 219);
+}
+
+.foto1{
+    position: relative;
+    width: 400px;
+    top: 70px;
+}
+
+.foto2{
+    position: relative;
+    width: 400px;
+    top: 70px;
+    left: 90px;
+}
+
+.foto3{
+    position: relative;
+    width: 400px;
+    top: 70px;
+    left: 180px;
+}
+
+.linho {
+    position: relative;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+    width: 93px;
+    bottom: 70px;
+    left: 400px;
+}
+
+.linho2 {
+    position: relative;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+    width: 93px;
+    bottom: 74px;
+    left: 894px;
+}
+
+.quadrado{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    width: 803px;
+    height: 440px;
+    top: 50px;
+    left: 54px;
+}
+
+.quadradinho{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    width: 420px;
+    height: 390px;
+    bottom: 390px;
+    left: 904px;
+}
+
+.preto{
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    border-radius: 3px;
+    width: 803px;
+    height: 35px;
+    bottom: 790px;
+    left: 54px;
+}
+
+.ferrari{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    bottom: 780px;
+    left: 100px;
+}
+
+.sf90{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    bottom: 833px;
+    left: 205px;
+    color: red;
+}
+
+.desc{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    bottom: 853px;
+    left: 100px;
+    color: rgb(165, 165, 165);
+}
